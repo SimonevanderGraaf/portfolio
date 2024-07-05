@@ -1,4 +1,4 @@
-# Data Analyst, Deventer, The Netherlands (NL)
+# Data Analyst, Deventer, NL
 
 ## About Me
 lalaalal
