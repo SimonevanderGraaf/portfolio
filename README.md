@@ -20,4 +20,4 @@ Having lived in 6 countries has shaped who I am, both in life and work experienc
 
 ## Contact
 - [Send me an email](mailto:simone.data.analytics@gmail.com)
-- [Let's connect on LinkedIn](www.linkedin.com/in/simone-van-der-graaf)
+- [Let's connect on LinkedIn](https://www.linkedin.com/in/simone-van-der-graaf)
