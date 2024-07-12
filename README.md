@@ -13,10 +13,10 @@ Having lived in 6 countries has shaped who I am, both in life and work experienc
 
 ## Projects
 ### Influenza Season
-[View the full project here](/projects/Influenza Season.pdf)
+[View the full project here](/Projects/Influenza-Season.pdf)
 
 ## Resume
-[Download my resume here](/assets/Resume.pdf)
+[Download my resume here](/Assets/Resume.pdf)
 
 ## Contact
 - [Send me an email](mailto:simone.data.analytics@gmail.com)
