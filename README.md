@@ -1,4 +1,4 @@
-# Data Analyst, Deventer, NL
+# Simone van der Graaf ## Data Analyst, Deventer, NL
 
 ## <ins>About Me</ins>
 As a data analyst with a background in sales, online marketing and product management, I am experienced in the life cycle of sales in products and services and learned how to efficiently plan several short-term projects with overlapping deadlines. This combined with being a fast learner in the use of computer tools makes that I understand business key factors in one or several connecting datasets quickly and that I can translate them to business solutions and opportunities.
