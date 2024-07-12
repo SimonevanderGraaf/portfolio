@@ -1,4 +1,4 @@
-# Simone van der Graaf 
+# Simone van der Graaf
 ## Data Analyst, Deventer, NL
 
 ## <ins>About Me</ins>
