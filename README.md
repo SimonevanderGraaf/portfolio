@@ -14,7 +14,7 @@ Having lived in 6 countries has shaped who I am, both in life and work experienc
 
 ## <ins>Projects</ins>
 ### Influenza Season
-[View the full project here](/Projects/Influenza-Season.pdf)
+[View the full project here](/Projects/Influenza-Season-Project.pdf)
 
 ## <ins>Resume</ins>
 [Download my resume here](/Assets/Resume.pdf)
