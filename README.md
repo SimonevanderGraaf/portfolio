@@ -10,7 +10,7 @@ Over the years I have developed strong communication skills with both stakeholde
 
 Having lived in 6 countries has shaped who I am, both in life and work experience. I speak Dutch, English, Spanish and French and I have a broad vocabulary in Flemish.
 
-#### The tools that I use: Python, SQL, Tableau, Power BI, Excel, PowerPoint
+#### The tools that I use: Python, SQL, Tableau, Power BI, Excel, PowerPoint and VS Code
 
 ## <ins>Projects</ins>
 ### Influenza Season
