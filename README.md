@@ -13,11 +13,18 @@ Having lived in 6 countries has shaped who I am, both in life and work experienc
 #### The tools that I use: Python, SQL, Tableau, Power BI, Excel, PowerPoint and VS Code
 
 ## <ins>Projects</ins>
-### Influenza Season
+### Influenza Season (Excel and Tableau)
 [View the full project here](/Projects/Influenza-Season-Project.pdf)
 
+### Rockbuster (SQL and Tableau)
+[View the full project here](/Projects/Rockbuster-Project.pdf)
+
+### Airbnb Mallorca (Python and Tableau)
+[View the full project here](/Projects/Airbnb-Mallorca-Project.pdf)
+
 ## <ins>Resume</ins>
-[Download my resume here](/Assets/Resume.pdf)
+[Download my Dutch resume here](/Assets/Resume-NL.pdf)
+[Download my English resume here](/Assets/Resume.pdf)
 
 ## <ins>Contact</ins>
 - [Send me an email](mailto:simone.data.analytics@gmail.com)
