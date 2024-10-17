@@ -23,8 +23,8 @@ Having lived in 6 countries has shaped who I am, both in life and work experienc
 [View the full project here](/Projects/Airbnb-Mallorca-Project.pdf)
 
 ## <ins>Resume</ins>
-[Download my Dutch resume here](/Assets/Resume-NL.pdf)
-[Download my English resume here](/Assets/Resume.pdf)
+- [Download my Dutch resume here](/Assets/Resume-NL.pdf)
+- [Download my English resume here](/Assets/Resume.pdf)
 
 ## <ins>Contact</ins>
 - [Send me an email](mailto:simone.data.analytics@gmail.com)
