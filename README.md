@@ -19,6 +19,9 @@ Having lived in 6 countries has shaped who I am, both in life and work experienc
 ### Rockbuster (SQL and Tableau)
 [View the full project here](/Projects/Rockbuster-Project.pdf)
 
+### Instacart (Python and Excel)
+[View the full project here](/Projects/Instacart-Project.pdf)
+
 ### Airbnb Mallorca (Python and Tableau)
 [View the full project here](/Projects/Airbnb-Mallorca-Project.pdf)
 
